@@ -17,8 +17,8 @@ The information is ditributed in the next .CSV files:
   - `BeeTraits` Contains the intertegular distances, bee size, and abundance of each bee species.
   - `PlantTraits` Contains the height from the ground level to the canopy of plants, the number of flowers per stem, and the width of the flower head.
 
-Information for each functional trait type is divided by species number.
+Each group of functional traits is divided by the number of species.
 
 ### Code
 
-The scripts contain functions written in R to produce the time series of matrices.
+The script contains functions written in R to generate the time series representing the network assembly. 
