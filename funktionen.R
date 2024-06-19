@@ -2,17 +2,6 @@
 # Author: WjC
 # Last update: 21.03.2024
 
-library(bipartite)
-
-## =========================================================== ##
-###### interaction matrices ######
-## =========================================================== ##
-
-datab = read_csv("bee_interactions.csv")
-
-li = data.frame( higher = datab$genus.species, lower = datab$FLOWER_SPECIES, webID = datab$DATE )
-liin= frame2webs( li ) # Interaction matrices
-
 ## =========================================================== ##
 ###### Empirical node degree dynamics ######
 ## =========================================================== ##
