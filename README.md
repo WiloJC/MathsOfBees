@@ -21,4 +21,5 @@ Each group of functional traits is divided by the number of species.
 
 ### Code
 
-The script contains functions written in R to generate the time series representing the network assembly. 
+The script `funktionen.R` functions to generate the degree and strength dynamics of the network assembly.
+
