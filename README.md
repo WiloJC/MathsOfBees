@@ -21,5 +21,5 @@ Each group of functional traits is divided by the number of species.
 
 ### Code
 
-The script `funktionen.R` functions to generate the degree and strength dynamics of the network assembly.
+The script `funktionen.R` includes functions to generate the degree and strength dynamics of the network assembly.
 
