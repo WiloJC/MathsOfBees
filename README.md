@@ -17,7 +17,7 @@ The information is ditributed in the next .CSV files:
   - `BeeTraits` Contains data on each bee species, detailing the average intertegular distances, average bee size, and species abundance.
   - `PlantTraits` Includes data on each plant species, detailing the average height (from ground level to canopy), the average number of flowers per stem, and the average width of the flower head.
 
-Additionally, `ListMatrixInteractios.rdata` is an R list where each element is a matrix representing the number of interactions at each time step. The provided functions process the network information using these matrices, which are based on the data from `bee_interactions`. 
+Additionally, `ListMatrixInteractions.rdata` is an R list where each element is a matrix representing the number of interactions at each time step. The provided functions process the network information using these matrices, which are based on the data from `bee_interactions`. 
 
 ### Code
 
