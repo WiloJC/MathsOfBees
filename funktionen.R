@@ -1,6 +1,24 @@
 ## Functions that describe the node and weight degree of empirical bipartite networks. 
 # Author: WjC
-# Last update: 21.03.2024
+# Last update: 24.06.2024
+
+## =========================================================== ##
+###### Functional trats probability distribution  ######
+## =========================================================== ##
+
+normtrait= function(vektor){ # Normalize the fucntional trait vector. 
+  # vektor = Imput vector with functional trait information 
+  # \sum_{i}{vektor_{i}} == 1
+  
+  normv = vector( mode = "double", length = lenght( vektor ) )
+  su = sum( vektor )
+  su = 1.0 / su
+  for( i in 1:length( vektor ) ){
+    normv[i] = vektor[i] * su
+  }
+  return(normv)
+}
+
 
 ## =========================================================== ##
 ###### Empirical node degree dynamics ######
