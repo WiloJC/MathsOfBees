@@ -13,9 +13,10 @@ This repository contains the supplementary material for the paper "Dynamics of a
 ### Data
 
 The information is ditributed in the next .CSV files: 
-  - `bee_interactions` A table containing interactions between bee and plant species during the summer of 2014.
-  - `BeeTraits` Contains the intertegular distances, bee size, and abundance of each bee species.
-  - `PlantTraits` Contains the height from the ground level to the canopy of plants, the number of flowers per stem, and the width of the flower head.
+  - `bee_interactions` A table containing the interactions between bee and plant individuals during the summer of 2014.
+  - `BeeTraits` Contains data on each bee species, detailing the average intertegular distances, average bee size, and species abundance.
+  - `PlantTraits` Includes data on each plant species, detailing the average height (from ground level to canopy), the average number of flowers per stem, and the average width of the flower head.
+  
 
 ### Code
 
