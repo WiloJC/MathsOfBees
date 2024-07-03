@@ -23,3 +23,4 @@ Additionally, `ListMatrixInteractions.rdata` is an R list where each element is 
 
 The script `funktionen.R` contains the functions used in the data analysis, including those for generating the degree and strength dynamics of the network assembly.
 
+If you have any comments or questions, please don't hesitate to contact us at: <william.castillo@biom.uni-freiburg.de>
