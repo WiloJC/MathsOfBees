@@ -1,6 +1,6 @@
 # Supplementary Material for ["Dynamics of a plant-pollinator network: Extending the Bianconi-Barabási Model"](https://rdcu.be/dMeuQ) 
 
-This repository contains the supplementary material to the paper "Dynamics of a plant-pollinator network: Extending the Bianconi-Barabási Model" by William J. Castillo, Laura A. Burkle and Carsten F. Dormann, published in the Special Issue of the 12th International Conference on Complex Networks and their Applications of the journal Applied Network Science, DOI: 10.1007/s41109-024-00636-0.
+This repository contains the supplementary material to the paper "Dynamics of a plant-pollinator network: Extending the Bianconi-Barabási Model" by William J. Castillo, Laura A. Burkle and Carsten F. Dormann, published in the Special Issue of the 12th International Conference on Complex Networks and their Applications of the journal Applied Network Science, DOI: <https://doi.org/10.1007/s41109-024-00636-0>.
 
 ## Contents
 
